@@ -1,0 +1,13 @@
+Package: atokar
+Type: Package
+Title: Atoka API Wrapper for R
+Version: 0.1.0
+Authors@R: 
+    person("Alejandro", "Abraham", email = "a.abraham@innovationteam.eu", role = c("aut", "cre"))
+URL: https://www.mbsconsulting.com, https://developers.atoka.io/v2/companies.html
+Description: Useful function to retrieve companies data with R in tabular form.
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+LazyData: true
